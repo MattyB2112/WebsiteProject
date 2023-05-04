@@ -1,9 +1,12 @@
+/*section below is for header and links*/
+
 .header-container {
     display: flex;
     align-items: center;
     background-color: #1f2937;
     height: 200px;
 }
+
 
 .header-title {
     display: flex;
@@ -26,7 +29,7 @@
     margin-left: auto;
 
 }
-
+/*section below is for everything under header and before white section*/
 .website-title-container {
     display:flex;
     background-color: #1f2937;
@@ -63,7 +66,7 @@
     align-items: center;
     justify-content: center;
     height: 240px;
-    width: 500px;
+    width: 600px;
     margin-right: 300px;
     background-color: grey;
     font-size: 16px;
@@ -85,8 +88,9 @@ button {
     color: #F9FAF8;
     align-items: center;
     justify-content: center;
-    border-style: none;
 }
+
+/*section below is for "some random information" and leaves the header container*/
 
 .second-title {
     margin-top: 50px;
@@ -127,6 +131,8 @@ button {
     font-size: 17px;
 }
 
+/*section below is for the quote*/
+
 .quote-container {
     display: flex;
     flex-direction: column;
@@ -150,6 +156,8 @@ button {
     font-weight: bold;
     margin-right: 300px;
 }
+
+/*section below is for "call to action"*/
 
 .action-container {
     display: flex;
@@ -202,6 +210,8 @@ button {
     border-color:#F9FAF8;
     margin-right:100px;
 }
+
+/*section below is for footer*/
 
 .copyright-container {
     display: flex;
