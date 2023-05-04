@@ -100,9 +100,9 @@ button {
 .box-and-text-container {
     display: flex;
     justify-content: space-between;
-    margin-left: 300px;
-    margin-right: 300px;
-
+    margin-left: 500px;
+    margin-right: 500px;
+    
 }
 
 .box-and-text {
